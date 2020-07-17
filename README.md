@@ -1,4 +1,5 @@
-# [Movie Classifier](http://leandro.pythonanywhere.com)
+# Movie Classifier
+
 ![](./img_readme.png)
 
 ## Info: 
@@ -11,3 +12,14 @@ Uma última tecnica utilizada foi a "out-of-core Learning" que nada mais é do q
 OBS: Essas otimizações juntamente com o uso do partial_fit obteve resultados melhores que um modelo anterior otimizado com o GridSearchCV, além de ter sido executado muito mais rapido também!
 
 O framework utlizado para criar a API foi o Flask, juntamente com alguns scripts de HTML e CSS. O app é servido para produção através do serviço (gratuito) do Python Anywhere.
+
+## Aplicação
+![Site da aplicação](http://leandro.pythonanywhere.com)
+
+### Requirements
+**Python**
+
+* numpy==1.16.4
+* pandas==1.0.2
+* SQLAlchemy==1.1.11
+* Flask==0.12.2

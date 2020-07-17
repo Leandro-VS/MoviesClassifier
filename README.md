@@ -14,7 +14,7 @@ OBS: Essas otimizações juntamente com o uso do partial_fit obteve resultados m
 O framework utlizado para criar a API foi o Flask, juntamente com alguns scripts de HTML e CSS. O app é servido para produção através do serviço (gratuito) do Python Anywhere.
 
 ## Aplicação
-![Site da aplicação](http://leandro.pythonanywhere.com)
+[Site da aplicação](http://leandro.pythonanywhere.com)
 
 ### Requirements
 **Python**
